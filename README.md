@@ -59,6 +59,19 @@ I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
 
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
+I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+
+#### What is CoderOne?
+
+CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+
 #### Coding Stats
 
 <!--START_SECTION:waka-->
@@ -66,8 +79,9 @@ I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 #### Github Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+</details>
 
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
