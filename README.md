@@ -61,7 +61,7 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/Islem%20Maboud%20Resume%20v2.0.pdf)
 - :email: ipenywis@gmail.com
 
 
