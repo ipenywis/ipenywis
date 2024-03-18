@@ -18,7 +18,7 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 
 ### What I currently Do
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I’m currently working at @Perigon
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: islempenywis@gmail.com.
